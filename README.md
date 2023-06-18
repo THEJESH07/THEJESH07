@@ -13,7 +13,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 💼 I’m completed my Bachelor's degree in Computer Science at [REVA University] and Working as Associate Software Engineer in Bosch(https://reva.edu.in/);
+- 💼 I’m completed my Bachelor's degree in Computer Science at [REVA University] and Working as Associate Software Engineer in Robert Bosch. (https://reva.edu.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, etc..;
 - 🎬 I love watching movies 
 - 💬 Ask me about anything, I am happy to help;
