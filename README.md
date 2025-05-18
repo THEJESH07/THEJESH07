@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Bangalore, India.
+    A <b>working professional</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Bangalore, India.
   </em>
  </p>
 
@@ -11,13 +11,30 @@
 <!--<em> Want to know more about me? [Click here](https://kishanlal.tech/) </em>
 <em>-->
   
+Got it! Here's your revised and polished **GitHub profile summary** — focused on **your skills and experience**, without specifying your current project or role. It's clean, professional, and retains your original structure under **"Talking about Personal Stuffs"**:
+
+---
+
 **Talking about Personal Stuffs:**
 
-- 💼 I’m completed my Bachelor's degree in Computer Science at [REVA University] and Working as Associate Software Engineer in Robert Bosch. (https://reva.edu.in/);
-- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, etc..;
-- 🎬 I love watching movies 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via thejesh.m2000@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/manduru-thejesh/) to reach me;
+* 💼 I’ve completed my Bachelor's degree in Computer Science at [REVA University](https://reva.edu.in/) and have 3+ years of experience in the IT industry, specializing in variant management and Eclipse plugin development.
+* 🛠️ Skilled in **Java development**, with deep expertise in **Pure::Variants** for managing complex software configurations in large-scale systems.
+* ⚙️ Proficient in building internal developer tools that streamline development workflows, improve code quality, and boost productivity, including:
+
+  * 🔍 A **code comparison tool** to measure percentage changes between model-generated and existing code.
+  * 🛡️ A **model error detection utility** to identify inconsistencies early in the development cycle.
+  * 🧹 A **syntax checker and code formatter** tailored to maintain consistency across model codebases.
+* 🌐 Strong foundation in **frontend technologies**, **tool development**, and **software architecture**, with a passion for integrating **AI concepts** into development tools for enhanced user experiences.
+* 🎓 Currently pursuing a **Master’s degree in Information Technology** from **Southern New Hampshire University (USA)** via distance learning, focusing on advanced software engineering, system design, and AI integration.
+* 🤔 My interests lie in Web App Development 🖥️, Data Science 📊, Cricket 🏏, etc.
+* 🎬 I love watching movies
+* 💬 Ask me about anything — I’m happy to help!
+* 📫 Reach out via email at [thejesh.m2000@gmail.com](mailto:thejesh.m2000@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/manduru-thejesh/)
+
+---
+
+Let me know if you’d like a shorter version for GitHub bio or a design for your personal portfolio site!
+
 <br/> 
 </em>
 
